@@ -48,3 +48,7 @@ div{
 	 background-color: #D65144;
 	 color: #ffffff;
  }
+ 
+ .message:hover {
+	 border: 50px solid #323232;
+ }
