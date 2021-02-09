@@ -3,10 +3,12 @@ body {
 	background-color: #eeeeee;
 	margin: 0
 }
+
 h1 {
 	font-family: Arial;
 	font-size: 28px;
 	padding: 70px;
+	text-align: center-left;
 	margin-left: 310px;
 	}
 
@@ -27,6 +29,11 @@ form {
 	height: 400px 200px;
 	padding: 20px;
 }
+
+.container {
+	align: center;
+}
+
 
 .group {
 	margin: 0px;
