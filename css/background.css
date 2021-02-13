@@ -1,0 +1,9 @@
+body {
+	padding: 30px;
+}
+
+div {
+	height: 300px;
+	border: 15px red;
+	box-shadov: 0 0 10px ;
+}
