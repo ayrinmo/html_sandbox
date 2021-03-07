@@ -1,0 +1,42 @@
+h1 {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 35px;
+	text-align: center;
+	padding: 80px 0 0 0;
+}
+
+p{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+
+.block_1 {
+	border: 5px solid grey;
+	margin: -10px;
+	padding: 0px;
+    background: url("../img/5.jpg") px no-repeat;
+	background-color: gray;
+	height: 50px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.box{
+	border: 1px solid gray;
+	height: 400px;
+	width: 350px;
+} 
+
+.pol_1{
+	border: 1px solid gray;
+	height: 60%;
+	width: 350px;
+	background: gray;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	
+}
