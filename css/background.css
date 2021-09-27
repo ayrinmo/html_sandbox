@@ -1,0 +1,12 @@
+body{
+	padding: 30px;
+}
+
+.block{
+	
+	background: rgba(129, 45, 211, 0.4);
+	background: url("../img/4.jpg") 100px 50px no-repeat;
+	height: 300px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+} 

@@ -1,0 +1,26 @@
+body {
+	background-image: url(..//img/1.jpg);
+}
+#test {
+	transform: rotate(0deg)scale(0.3);
+	transition: 5s all;
+	background-color: #fff;
+	color: #333;
+	padding: 75;
+	margin: 15px;
+	border: 7px solid #D85346;
+	border-radius: 30px;
+	opasity: 0.9;
+	box-shadow: -13px 13px 7px #000000;
+	width: 50%;
+	height: 300px;
+	display: block;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 900;
+}
+#test:active{
+	display: block;
+	transform: rotate(90deg) scale(0.3);
+	background-color: red;
+}
